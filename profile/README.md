@@ -4,7 +4,7 @@ Carbon-12 focuses on blockchain node validation, providing services that enhance
 
 # Nodes
 
-[0G](https://github.com/Carbon-12-Validator/12_0g_node) | [Warden](https://github.com/Carbon-12-Validator/warden) | [Paricle](https://github.com/Carbon-12-Validator/particle-serv)
+[0G](https://github.com/Carbon-12-Validator/12_0g_node) | [Warden](https://github.com/Carbon-12-Validator/warden) | [Paricle](https://github.com/Carbon-12-Validator/particle-serv) | [Voi Network](https://mirror.xyz/0xCe52723a9104C9AE78CaDC447eFa9c0B314751A8/LcBuaDWKhZ_OP4ZrKMfFlVL9HSOjb211qQw_Kai33cs)
 
 # Our Approach
 
